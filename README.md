@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**kevinruiz1811/kevinruiz1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Banner](https://github.com/kevinruiz1811/kevinruiz1811/blob/main/banner.jpg?raw=true "Banner")](https://github.com/kevinruiz1811/kevinruiz1811/blob/main/banner.jpg?raw=true "Banner")
+<h1 align="center">
+Welcome to my GitHub profile.
+</h1>
+<h2 align="center">
+Web developer, analyst and developer of information systems.
+</h2>
+<h2 align="center">
+My social media:
+</h2>
+<h3>
+<p align="left"> <a target="_blank" href='https://www.facebook.com/kevinnicolas.ruizcamargo'></a> </p>
+</h3>
