@@ -20,6 +20,7 @@
     <a target="_blank" href='https://www.facebook.com/kevinnicolas.ruizcamargo'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-kevinruiz1811" height="30" width="40" /></a>
     <a target="_blank" href='https://www.linkedin.com/in/kevin-nicolas-ruiz-camargo-a3ba42234/'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="professorjosedeassis" height="30" width="40" /></a>
     <a target="_blank" href='https://www.instagram.com/kev.ru21/'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prof.joseassis" height="30" width="40" /></a>
+    <a target="_blank" href='https://platzi.com/p/kevin-ruiz708/'><img align="center" src="https://static.platzi.com/static/images/footer/logo.png" alt="prof.joseassis" height="30" width="80" /></a>
   </p>
 </h3>
 
@@ -32,6 +33,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="linux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="linux" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
